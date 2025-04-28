@@ -1,0 +1,42 @@
+(yolov11) (base) grainz@grainz-Jiaolong-Series-GM7ZG0M:~/Project/grduated_project/net/det_onnx$ /home/grainz/miniconda3/envs/yolov11/bin/python /home/grainz/Project/grduated_project/net/det_onnx/val.py
+顺序推理: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 100/100 [00:31<00:00,  3.19it/s]
+Warning: No predictions for image 9
+Warning: No ground truths for image 9
+Warning: No predictions for image 15
+Warning: No predictions for image 38
+Warning: No predictions for image 44
+Warning: No predictions for image 53
+Warning: No predictions for image 61
+Warning: No predictions for image 76
+Warning: No predictions for image 80
+Warning: No predictions for image 95
+Warning: No predictions for image 98
+Warning: No predictions for image 99
+
+Evaluation Results:
+mAP@[0.5:0.95]: 0.1265
+总处理图像数: 100
+Executed Time: 106.137 ms
+(yolov11) (base) grainz@grainz-Jiaolong-Series-GM7ZG0M:~/Project/grduated_project/net/det_onnx$ /home/grainz/miniconda3/envs/yolov11/bin/python /home/grainz/Project/grduated_project/net/det_onnx/val.py
+顺序推理: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 100/100 [00:19<00:00,  5.14it/s]
+Warning: No predictions for image 9
+Warning: No ground truths for image 9
+Warning: No predictions for image 12
+Warning: No predictions for image 15
+Warning: No predictions for image 23
+Warning: No predictions for image 37
+Warning: No predictions for image 38
+Warning: No predictions for image 44
+Warning: No predictions for image 45
+Warning: No predictions for image 47
+Warning: No predictions for image 53
+Warning: No predictions for image 61
+Warning: No predictions for image 76
+Warning: No predictions for image 95
+Warning: No predictions for image 98
+Warning: No predictions for image 99
+
+Evaluation Results:
+mAP@[0.5:0.95]: 0.1370
+总处理图像数: 100
+Executed Time: 71.403 ms
